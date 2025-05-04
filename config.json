@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "period": "30"
+  },
+  "metrics": [
+    {
+      "type": "cpu",
+      "ids": [0, 1, 2, 3]
+    },
+    {
+      "type": "memory",
+      "spec": ["used", "free"]
+    }
+  ],
+  "outputs": [
+    {"type": "console"},
+    {"type": "log", "path": "file.log"}
+  ]
+}

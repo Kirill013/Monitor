@@ -1,0 +1,3 @@
+/home/kirill/Desktop/Monitor/build/CMakeFiles/Monitor.dir
+/home/kirill/Desktop/Monitor/build/CMakeFiles/edit_cache.dir
+/home/kirill/Desktop/Monitor/build/CMakeFiles/rebuild_cache.dir
