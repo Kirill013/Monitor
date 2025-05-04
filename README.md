@@ -9,7 +9,9 @@
 
 # Установка
   Клонируйте репозиторий:
+  
   git clone https://github.com/Korelin013/Monitor
+  
   cd Monitor
 
 # Создайте директорию для сборки и выполните сборку:
