@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Monitor.dir/Monitor.cpp.o -o Monitor 
