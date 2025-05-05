@@ -1,7 +1,7 @@
-# Monitor
+## Monitor
   Мониторинг состояния Linux-системы.
   
-# Требования
+### Требования
   > Linux OS
   
   > g++ 11.0
@@ -10,14 +10,14 @@
   
   > Библиотека nlohmann/json
 
-# Установка
+### Установка
   Клонируйте репозиторий:
   ```
   git clone https://github.com/Korelin013/Monitor
 
   cd Monitor
   ```
-# Сборка:
+### Сборка:
   ```
   mkdir build
   
@@ -27,16 +27,16 @@
   
   make
   ```
-# Запуск
+### Запуск
   ```
   ./Monitor
   ```
-# Тестовое задание: 
+### Тестовое задание: 
 https://github.com/Kirill013/Monitor/blob/main/Тестовое%20задание%20-%20ПД.pdf
 
-# Пример файла конфигурации:
+### Пример файла конфигурации:
 https://github.com/Kirill013/Monitor/blob/main/config.json
 
-# Пример лог файла:
+### Пример лог файла:
 https://github.com/Kirill013/Monitor/blob/main/file.log
 
