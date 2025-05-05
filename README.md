@@ -4,9 +4,9 @@
 # Требования
   Linux OS
   
-  C++17
+  g++ 11.0
   
-  CMake 3.10 или выше
+  CMake 3.10+
   
   Библиотека nlohmann/json
 
@@ -17,7 +17,7 @@
   
   cd Monitor
 
-# Создайте директорию для сборки и выполните сборку:
+# Сборка:
   mkdir build
   
   cd build
@@ -29,11 +29,12 @@
 # Запуск
   ./Monitor
 
-# Пример файла конфигурации
-  config.json
+# Тестовое задание: 
+https://github.com/Kirill013/Monitor/blob/main/Тестовое%20задание%20-%20ПД.pdf
 
-# Пример лог файла
-  file.log
+# Пример файла конфигурации:
+https://github.com/Kirill013/Monitor/blob/main/config.json
 
-# Пример вывода через консоль
-![image](https://github.com/user-attachments/assets/d5bb6544-765c-46b9-bf83-fca581341b83)
+# Пример лог файла:
+https://github.com/Kirill013/Monitor/blob/main/file.log
+
